@@ -340,6 +340,7 @@ p {
   background: #2f303a;
   background-image: url(images/img.png),
     linear-gradient(to bottom, #fff, rgb(160, 158, 158), rgb(58, 57, 57), #000);
+  background-size: 1600px;
 }
 
 .ability-section {
@@ -563,6 +564,7 @@ p {
   justify-content: center;
   align-items: center;
 }
+
 .logo-icons:hover {
   filter: invert(0.4) sepia(1) saturate(15.7) hue-rotate(183.6deg)
     brightness(0.95);
@@ -599,3 +601,4 @@ p {
   background: #2196f3;
   cursor: pointer;
 }
+
